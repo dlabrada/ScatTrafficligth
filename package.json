@@ -1,0 +1,24 @@
+{
+  "name": "scattrafficligth",
+  "version": "1.0.0",
+  "description": "Project BootCamp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node src/index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dlabrada/ScatTrafficligth.git"
+  },
+  "author": "Diego Labrada Rodriguez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dlabrada/ScatTrafficligth/issues"
+  },
+  "homepage": "https://github.com/dlabrada/ScatTrafficligth#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.20"
+  }
+}
